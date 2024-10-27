@@ -9,7 +9,7 @@ description: Southern Asia
 
 <FlatUiTable
   data={{
-    url: 'au_nz.csv'
+    url: 'sout_as.csv'
   }}
 />
 
